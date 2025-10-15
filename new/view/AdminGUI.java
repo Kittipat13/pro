@@ -78,7 +78,7 @@ public class AdminGUI extends JFrame {
         }
     }
 
-    // สำหรับทดสอบเปิด GUI
+    
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
             new AdminGUI().setVisible(true);
